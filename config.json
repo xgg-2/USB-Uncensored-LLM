@@ -1,0 +1,14 @@
+{
+  "ui_port": 5000,
+  "ollama_port": 11434,
+  "ollama_timeout_seconds": 600,
+  "default_model": "",
+  "models_dir": "Shared/models",
+  "bin_dir": "Shared/bin",
+  "chat_data_dir": "Shared/chat_data",
+  "log_dir": "Shared/logs",
+  "network_bind": "0.0.0.0",
+  "encrypt_chat_history": false,
+  "first_run": true,
+  "version": "1.0.0"
+}

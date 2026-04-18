@@ -1,0 +1,28 @@
+# AI model weights (large binary files)
+Shared/models/*
+!Shared/models/.gitkeep
+
+# Downloaded runtimes and binaries
+Shared/python/
+Shared/bin/*
+!Shared/bin/.gitkeep
+Shared/*.zip
+
+# Runtime data (auto-generated at startup)
+Shared/chat_data/*
+!Shared/chat_data/.gitkeep
+Shared/logs/*
+!Shared/logs/.gitkeep
+
+# OS-generated files
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.DS_Store
+
+# Replit-specific files (not relevant for local use)
+.replit
+replit.md
+.local/
+.cache/
+.agents
