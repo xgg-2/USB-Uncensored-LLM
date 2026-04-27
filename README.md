@@ -2,7 +2,8 @@
 
 A portable, air-gapped AI chat system that runs large language models directly from a USB drive or local disk — no internet connection, no cloud, no installation required on the host machine.
 
-> **Note:** This is a maintained fork of the original project by [techjarves](https://github.com/techjarves/USB-Uncensored-LLM/tree/main).
+> [!note]
+> This is a maintained fork of the original project by [techjarves](https://github.com/techjarves/USB-Uncensored-LLM/tree/main).
 > The original setup video and concept belong to the original author.
 > This fork introduces significant enhancements: a redesigned UI, security hardening, structured logging, preflight checks, central configuration, and improved robustness for redeployment.
 
